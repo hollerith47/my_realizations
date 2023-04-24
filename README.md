@@ -1,2 +1,2 @@
 # my_realizations
-Here you are how I spend my days in programming.
+This is how I spend my days in programming.
